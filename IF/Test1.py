@@ -9,6 +9,7 @@
 #O algoritmo deve mostrar na tela as notas,
 #a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C
 #ou “REPROVADO” se o conceito for D ou E.
+
 nota1 = float(input("digite nota 1"))
 nota2 = float(input("digite nota 2"))
 
