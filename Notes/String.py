@@ -23,7 +23,7 @@ print("exemplo de multiplicaçao string", letter * 10)
 print("exemplo de manipulaçao string com upercase:",x.upper())
 print("exemplo de manipulaçao string com list:",x.split())# no split(),pode ser colocado uma letra, essa letra será removida
 print('this is a string {}'.format('INSERT')) #exemplo de insert de strin
-print("the {3} {2} {0} {1} ".format("yiff","botton","is","fox"))#exeplo de list include,que pode ser organizado de acordo
+print("the {3} {2} {0} {1} ".format("dog","up","is","fox"))#exeplo de list include,que pode ser organizado de acordo
 #com as celulas de 0 ate 3
 print("resultado foi {r:1.3f}".format(r=result))#exemplo de insert com numero float.onde o r e resultado,
 #o 1.3f e o level de precisao, por exemplo vai so mostrar os 3 digitos deppois do ponto.
